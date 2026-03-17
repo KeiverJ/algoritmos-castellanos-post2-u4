@@ -1,0 +1,4 @@
+Benchmark                       Mode  Cnt      Score      Error   Units
+TreeBenchmark.avlContains      thrpt    5   3489.367 ± 1512.946  ops/ms
+TreeBenchmark.dsuConnected     thrpt    5  56374.146 ±  878.948  ops/ms
+TreeBenchmark.treeMapContains  thrpt    5   3968.648 ±  181.776  ops/ms
