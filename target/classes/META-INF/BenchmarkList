@@ -1,0 +1,3 @@
+JMH S 23 edu.bench.TreeBenchmark S 57 edu.bench.jmh_generated.TreeBenchmark_avlContains_jmhTest S 11 avlContains S 10 Throughput E A 1 1 1 E I 1 3 T 3 1 s E I 1 5 T 3 2 s E I 1 1 E E E E E E U 12 MILLISECONDS E E 
+JMH S 23 edu.bench.TreeBenchmark S 58 edu.bench.jmh_generated.TreeBenchmark_dsuConnected_jmhTest S 12 dsuConnected S 10 Throughput E A 1 1 1 E I 1 3 T 3 1 s E I 1 5 T 3 2 s E I 1 1 E E E E E E U 12 MILLISECONDS E E 
+JMH S 23 edu.bench.TreeBenchmark S 61 edu.bench.jmh_generated.TreeBenchmark_treeMapContains_jmhTest S 15 treeMapContains S 10 Throughput E A 1 1 1 E I 1 3 T 3 1 s E I 1 5 T 3 2 s E I 1 1 E E E E E E U 12 MILLISECONDS E E 
