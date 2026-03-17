@@ -83,4 +83,4 @@ algoritmos-castellanos-post2-u4/
 
 ## Análisis de resultados
 
-Ver documento completo en `algoritmos-castellanos-post2-u4.pdf`.
+Ver documento completo en [algoritmos-castellanos-post2-u4.pdf](algoritmos-castellanos-post2-u4.pdf).
